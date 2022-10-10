@@ -1,4 +1,4 @@
-
+![N|Solid](https://www.freecodecamp.org/news/content/images/2022/07/git-github.png)
 # Introduction to GitHub
 
 ### Table of content
@@ -22,7 +22,6 @@ GitHub Desktop vs. Github CLI
 Conclusion
 
 
-![N|Solid](https://www.freecodecamp.org/news/content/images/2022/07/git-github.png)
 
 
 ## Introduction
