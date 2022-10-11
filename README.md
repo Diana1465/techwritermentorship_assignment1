@@ -36,7 +36,7 @@ The GitHub web service is in demand for hosting IT projects and joint developmen
 
 
 ## Git vs. GitHub
-Git is a distributed version control system that allows developers to track changes in files and work on one project together with colleagues and GitHub is an online repository hosting service that has all the functions of distributed version control and source code management functionality — everything that supports Git and even more
+Git is a distributed version control system that allows developers to track changes in files and work on one project together with colleagues and GitHub is an online repository hosting service that has all the functions of distributed version control and source code management functionality — everything that supports Git and even more.
 
 Benefits of Git | Benefits of GitHub |
 :-----: | :----: |
@@ -47,9 +47,9 @@ Git is effective at storing backups, so there are few known cases of people losi
 
 ## Clone 
 To clone a folder (fork) means to download it to work with the code on your computer. 
-1. From GitHub Repository press on Clone
-2. Copy the clone URL
-3. In Terminal (for Mac) or command line (for Windows Git Bash) go to the current directory where you want the cloned directory to be added in
+1. From GitHub Repository, on Clone.
+2. Copy the clone URL.
+3. In Terminal (for Mac) or command line (for Windows Git Bash) go to the current directory where you want the cloned directory to be added in.
 ```sh
 $ cd '/c/Users/j-c.chouinard/My First Git Project'
 ```
