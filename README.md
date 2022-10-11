@@ -53,7 +53,7 @@ To clone a folder (fork) means to download it to work with the code on your comp
 ```sh
 $ cd '/c/Users/j-c.chouinard/My First Git Project'
 ```
-4. Use the git clone command along with the copied URL from earlier
+4. Use the git clone command along with the copied URL from earlier.
 ```sh
 $ git clone https://github.com/USERNAME/REPOSITORY
 ```
