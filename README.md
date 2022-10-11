@@ -55,7 +55,7 @@ $ cd '/c/Users/j-c.chouinard/My First Git Project'
 ```
 4. Use the git clone command along with the copied URL from earlier.
 ```sh
-$ git clone https://github.com/USERNAME/REPOSITORY
+$ git clone https://github.com/USERNAME/REPOSITORYNAME
 ```
 5. Tap Enter.
 ```sh
