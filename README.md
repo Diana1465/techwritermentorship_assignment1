@@ -32,7 +32,7 @@ This article is dedicated to explaining what GitHub is, what is the difference b
 GitHub  is a Git—based web service that helps to jointly develop IT projects. On GitHub, developers publish their own and edit someone else's code, comment on projects and follow the news of other users.
 
 ## Why GitHub
-The GitHub web service is in demand for hosting IT projects and joint development. The developers of the system call it a "social network" for programmers. Here they combine repositories, comment on examples of "someone else's" code and use the platform as a cloud storage with the ability to quickly transfer to the customer. GitHub also boasts access control, bug tracking, task management, and a wiki for each project. The goal of GitHub is to facilitate developer interaction.
+The GitHub web service is in demand for hosting IT projects and joint development. The developers of the system call it a "social network" for programmers. Here they combine repositories, comment on examples of someone else's code and use the platform as a cloud storage with the ability to quickly transfer to the customer. GitHub also boasts access control, bug tracking, task management, and a wiki for each project. The goal of GitHub is to facilitate developer interaction.
 
 
 ## Git vs. GitHub
