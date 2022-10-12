@@ -46,30 +46,40 @@ Git is effective at storing backups, so there are few known cases of people losi
 | Simple branching. In other version control systems, creating branches is a tedious and time—consuming task, since all the code is copied to a new branch. In Git, branch management is implemented much easier and more efficiently  | You can find out the profile's activity, what contributions have been made and the number of followers. | 
 
 ## Clone 
-To clone a folder (fork) means to download it to work with the code on your computer. 
-1. From GitHub Repository, on Clone.
-2. Copy the clone URL.
-3. In Terminal (for Mac) or command line (for Windows Git Bash) go to the current directory where you want the cloned directory to be added in.
-```sh
-$ cd '/c/Users/j-c.chouinard/My First Git Project'
-```
-4. Use the git clone command along with the copied URL from earlier.
+
+To clone a folder (repository or fork) means to download it to work with the code on your computer. 
+
+1. To clone a repository, go to the repository page you want to clone. This can be done using the side column on the dashboard.
+2. Click clone or upload.
+3. Copy the code that appears after clicking the button.
+![clone_1](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/clone_1.png)
+4. After that, open Git Bash on your system.
+
+![clone_2](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/clone_2.png)
+
+5. Check the directories (or repositories) already created in this directory (using the ls command). As you can see in the picture, I have only one repository in the techwriter_mentorship directory.
+
+![clone_3](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/clone_3.png)
+
+6. Type the git clone "URL" command to clone the repository. The URL here is the same URL that we copied in the third step.
+![clone_4](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/clone_4.png)
 ```sh
 $ git clone https://github.com/USERNAME/REPOSITORYNAME
 ```
-5. Tap Enter.
-```sh
-$ git clone https://github.com/USERNAME/REPOSITORYNAME
-Cloning into Git …
-remote: Counting objects: 13, done.
-remote: Compressing objects: 100% (13/13), done.
-remove: Total 13 (delta 1), reused 0 (delta 1)
-Unpacking objects: 100% (13/13), done.
-```
+The URL is a link to the GitHub repository. You can type this into the address bar of your browser and check whether the repository page opens or not.
+
+7. When you press enter, the following message will appear.
+![clone_5](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/clone_5.png)
+
+It will take a few seconds to clone the storage on your system. Please note that cloning depends on your internet connection, and the time will depend on your connection. If Git cannot clone due to a weak connection, it will display an error. The user will be prompted to try again until the above message appears.
+
+8. Check the directories with the ls command, which lists all files and folders. Make sure that the cloned repository appears.
+![clone_6](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/clone_6.png)
 
 ## Pull request
 Pull request is an offer to change the code in the repository. 
-To create a pull request, go to your fork page on GitHub. The Compare & pull request bar appeared at the top, and you can also go to the Pull Requests tab.
+
+To create a pull request, go to your fork page on GitHub. The Compare & pull request bar appeared at the top, and you can also go to the **Pull Requests** tab.
 1. Go to your fork page on GitHub. The Compare & pull request bar appeared at the top, and you can also go to the Pull Requests tab.
 ![pullrequest_1](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/pullrequest_1.png)
 2. Click on it and you will find yourself on the page of opening a pull request. Check the description and click **create a pull request**.
