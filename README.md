@@ -68,11 +68,12 @@ Unpacking objects: 100% (13/13), done.
 ```
 
 ## Pull request
-Pull request is an offer to change the code in the repository. Pull request should be checked by the administrator of the master repository - it can be a fellow developer, a technical assistant or a mentor on the course.
+Pull request is an offer to change the code in the repository. 
+To create a pull request, go to your fork page on GitHub. The Compare & pull request bar appeared at the top, and you can also go to the Pull Requests tab.
 1. Go to your fork page on GitHub. The Compare & pull request bar appeared at the top, and you can also go to the Pull Requests tab.
 2. Click on it and you will find yourself on the page of opening a poolquest. Check the description and click Create pull request.
 3. Wait for the approval of the request pool or comments on it.
-
+![Solid!](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/pullrequest_1.png)
 
 ## Commit
 To commit means to commit all the saved changes and give them a name. This is done using the commit command.
