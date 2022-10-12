@@ -50,7 +50,7 @@ Git is effective at storing backups, so there are few known cases of people losi
 To clone a folder (repository or fork) means to download it to work with the code on your computer. 
 
 1. To clone a repository, go to the repository page you want to clone. This can be done using the side column on the dashboard.
-2. Click clone or upload.
+2. Click **clone or upload**.
 3. Copy the code that appears after clicking the button.
 ![clone_1](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/clone_1.png)
 4. After that, open Git Bash on your system.
