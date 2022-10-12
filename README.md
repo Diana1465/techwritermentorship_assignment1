@@ -17,7 +17,7 @@ Pull request
 
 Commit 
 
-GitHub Desktop vs. Github CLI
+GitHub Desktop vs. GitHub CLI
 
 Conclusion
 
@@ -25,11 +25,15 @@ Conclusion
 
 
 ## Introduction
-This article is dedicated to explaining what GitHub is, what is the difference between Git and GitHub, GitHub Desktop vs. Github CLI and it will also help you execute some commands on Git.
+This article is dedicated to explaining what GitHub is, what the difference between Git and GitHub is, and GitHub Desktop vs. GitHub CLI. You can learn how to clone the repository, create a pull request, and commit to some repository modifications by reading the instructions provided here.
 
 ## What is GitHub
 
-GitHub  is a Git—based web service that helps to jointly develop IT projects. On GitHub, developers publish their own and edit someone else's code, comment on projects and follow the news of other users.
+GitHub  is a Git—based web service that helps to jointly develop IT projects. Git is a version control system developed by Linus Torvalds.
+
+If Git is the heart of GitHub, then Hub is its soul. The hub in GitHub is what turns a command line like Git into the largest social network for developers.
+
+In addition to participating in a specific project, GitHub allows users to communicate with like-minded people. You can follow people and see what they are doing or who they are communicating with.
 
 ## Why GitHub
 The GitHub web service is in demand for hosting IT projects and joint development. The developers of the system call it a "social network" for programmers. Here they combine repositories, comment on examples of someone else's code and use the platform as a cloud storage with the ability to quickly transfer to the customer. GitHub also boasts access control, bug tracking, task management, and a wiki for each project. The goal of GitHub is to facilitate developer interaction.
@@ -88,12 +92,15 @@ To create a pull request, go to your fork page on GitHub. The Compare & pull req
 
 
 ## Commit
-To commit means to commit all the saved changes and give them a name. This is done using the commit command.
+In the simplest case, to commit, you just need to type the git commit command. The minimum description of a commit consists of a commit message, without which the commit will not be created. After you specify the commit message, Git will commit and display additional information on the created commit.
+
+![commit_1](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/commit_1.png)
 ```sh
 git commit -m "your message"
 ```
 
-## GitHub Desktop vs. Github CLI
+
+## GitHub Desktop vs. GitHub CLI
 GitHub Desktop allows you to interact with files by having a clear application interface and clicking buttons, while the CLI requires you to enter commands manually. However, many developers and programmers prefer the second option, since it gives access to every single git function available.
 The message text should be concise and at the same time report what the commit is doing (the changes made).
 
