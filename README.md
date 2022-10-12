@@ -71,9 +71,10 @@ Unpacking objects: 100% (13/13), done.
 Pull request is an offer to change the code in the repository. 
 To create a pull request, go to your fork page on GitHub. The Compare & pull request bar appeared at the top, and you can also go to the Pull Requests tab.
 1. Go to your fork page on GitHub. The Compare & pull request bar appeared at the top, and you can also go to the Pull Requests tab.
-![Solid!](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/pullrequest_1.png)
-2. Click on it and you will find yourself on the page of opening a pull request. Check the description and click Create pull request.
-3. Wait for the approval of the request pool or comments on it.
+![pullrequest_1](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/pullrequest_1.png)
+2. Click on it and you will find yourself on the page of opening a pull request. Check the description and click **create a pull request**.
+![pullrequest_2](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/pullrequest_2.png)
+4. Wait for the approval of the pull request or comments on it.
 
 
 ## Commit
