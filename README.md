@@ -5,7 +5,7 @@
 
 Introduction
 
-What is GitHub
+What is GitHub?
 
 Why GitHub
 
@@ -27,16 +27,16 @@ Conclusion
 ## Introduction
 This article is dedicated to explaining what GitHub is, what the difference between Git and GitHub is, and GitHub Desktop vs. GitHub CLI. You can learn how to clone the repository, create a pull request, and commit to some repository modifications by reading the instructions provided here.
 
-## What is GitHub
+## What is GitHub?
 
-GitHub  is a Git—based web service that helps to jointly develop IT projects. Git is a version control system developed by Linus Torvalds.
+GitHub  is a Git-based web service that helps to jointly develop IT projects. Git is a version control system developed by Linus Torvalds.
 
 If Git is the heart of GitHub, then Hub is its soul. The hub in GitHub is what turns a command line like Git into the largest social network for developers.
 
 In addition to participating in a specific project, GitHub allows users to communicate with like-minded people. You can follow people and see what they are doing or who they are communicating with.
 
 ## Why GitHub
-The GitHub web service is in demand for hosting IT projects and joint development. The developers of the system call it a "social network" for programmers. Here they combine repositories, comment on examples of someone else's code and use the platform as a cloud storage with the ability to quickly transfer to the customer. GitHub also boasts access control, bug tracking, task management, and a wiki for each project. The goal of GitHub is to facilitate developer interaction.
+The GitHub web service is in demand for hosting IT projects and joint development. The developers of the system call it a "social network" for programmers. Here they combine repositories, comment on examples of someone else's code, and use the platform as a cloud storage with the ability to quickly transfer to the customer. GitHub also boasts access control, bug tracking, task management, and a wiki for each project. The goal of GitHub is to facilitate developer interaction.
 
 
 ## Git vs. GitHub
