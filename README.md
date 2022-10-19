@@ -31,7 +31,7 @@ This article is dedicated to explaining what GitHub is, what the difference betw
 
 GitHub  is a Git-based web service that helps to jointly develop IT projects. Git is a version control system developed by Linus Torvalds.
 
-If Git is the heart of GitHub, then Hub is its soul. The hub in GitHub is what turns a command line like Git into the largest social network for developers.
+If Git is the heart of GitHub, then Hub is its soul. The Hub in GitHub is what turns a command line like Git into the largest social network for developers.
 
 In addition to participating in a specific project, GitHub allows users to communicate with like-minded people. You can follow people and see what they are doing or who they are communicating with.
 
@@ -42,23 +42,28 @@ The GitHub web service is in demand for hosting IT projects and joint developmen
 ## Git vs. GitHub
 Git is a distributed version control system that allows developers to track changes in files and work on one project together with colleagues and GitHub is an online repository hosting service that has all the functions of distributed version control and source code management functionality — everything that supports Git and even more.
 
-Benefits of Git | Benefits of GitHub |
+Git | GitHub |
 :-----: | :----: |
 Free and open-source. You can download it for free and make any changes to the source code  | You can create an unlimited number of repositories under each free account, but they will be public| 
 Small and fast. Performs all operations locally, which increases its speed. In addition, Git locally saves the entire repository into a small file without loss of data quality | On GitHub, you can build a portfolio. Project descriptions are linked to a public repository from which the source code can be viewed | 
-Git is effective at storing backups, so there are few known cases of people losing data while using Git  | Global search. For developers: project search, error analysis, code with comments. For recruiters: search for employees by CV|
-| Simple branching. In other version control systems, creating branches is a tedious and time—consuming task, since all the code is copied to a new branch. In Git, branch management is implemented much easier and more efficiently  | You can find out the profile's activity, what contributions have been made and the number of followers. | 
+Git is effective at storing backups, so there are a few known cases of people losing data while using Git  | Global search. For developers: project search, error analysis, code with comments. For recruiters: search for employees by CV|
+| Simple branching. In other version control systems, creating branches is a tedious and time—consuming task, since all the code is copied to a new branch. In Git, branch management is implemented much easier and more efficiently  | You can find out the profile's activity, what contributions have been made, and the number of followers. | 
 
 ## Clone 
 
 To clone a folder (repository or fork) means to download it to work with the code on your computer. 
 
-1. To clone a repository, go to the repository page you want to clone. This can be done using the side column on the dashboard.
-2. Click **clone or upload**.
-3. Copy the code that appears after clicking the button.
+1. To clone a repository, go to the repository page you want to clone. This can be done by going to the overview page of the user whose repository you want to clone (1), or by going to your own repositories that you want to clone (2) on the side column on the dashboard.
+![clone_7](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/clone_7.png)
+3. Click **Code**.
+![clone_8](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/clone_8.png)
+5. Copy the URL that appears after clicking the button.
 ![clone_1](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/clone_1.png)
-4. After that, open Git Bash on your system.
+4. After that, open Git Bash on your system. To do this, create a new folder on your system or navigate to the folder where you want to clone the repository and right-click. Select **Git Bash here** from the list.
 
+![clone_9](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/clone_9.png)
+
+This will open **Git Bash** in a separate **window** and you will see the following:
 ![clone_2](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/clone_2.png)
 
 5. Check the directories (or repositories) already created in this directory (using the ls command). As you can see in the picture, I have only one repository in the techwriter_mentorship directory.
@@ -81,12 +86,12 @@ It will take a few seconds to clone the storage on your system. Please note that
 ![clone_6](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/clone_6.png)
 
 ## Pull request
-Pull request is an offer to change the code in the repository. 
+A pull request is an offer to change the code in the repository. 
 
 To create a pull request, go to your fork page on GitHub. The Compare & pull request bar appeared at the top, and you can also go to the **Pull Requests** tab.
 1. Go to your fork page on GitHub. The Compare & pull request bar appeared at the top, and you can also go to the Pull Requests tab.
 ![pullrequest_1](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/pullrequest_1.png)
-2. Click on it and you will find yourself on the page of opening a pull request. Check the description and click **create a pull request**.
+2. Click on it and you will find yourself on the page for opening a pull request. Check the description and click **create a pull request**.
 ![pullrequest_2](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/pullrequest_2.png)
 4. Wait for the approval of the pull request or comments on it.
 
@@ -105,4 +110,4 @@ GitHub Desktop allows you to interact with files by having a clear application i
 The message text should be concise and at the same time report what the commit is doing (the changes made).
 
 ## Conclusion
-This article was written to let you understand a little more about what Git is, the difference between Git and GitHub, and how to work with Git on your computer. Do not stop your practice of using these tools and you will definitely master it soon.
+This article was written to let you understand a little more about what Git is, the difference between Git and GitHub, and how to work with Git on your computer. Do not stop your practice of using these tools and you will definitely master them soon.
