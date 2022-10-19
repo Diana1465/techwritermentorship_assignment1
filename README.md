@@ -59,7 +59,7 @@ To clone a folder (repository or fork) means to download it to work with the cod
 ![clone_8](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/clone_8.png)
 5. Copy the URL that appears after clicking the button.
 ![clone_1](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/clone_1.png)
-4. After that, open Git Bash on your system. To do this, create a new folder on your system or navigate to the folder where you want to clone the repository and right-click. Select **Git Bash here** from the list.
+4. After that, open **Git Bash** on your system. To do this, create a new folder on your system or navigate to the folder where you want to clone the repository and right-click. Select **Git Bash here** from the list.
 
 ![clone_9](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/clone_9.png)
 
@@ -89,6 +89,7 @@ It will take a few seconds to clone the storage on your system. Please note that
 A pull request is an offer to change the code in the repository. 
 
 1. To create a pull request, go to your fork page on GitHub. You are making or have already made some changes to the code. After you have made changes to your repository file, you can ask the creator of the file to confirm the changes. Click **Propose changes**. 
+
 ![pullrequest_1](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/pullrequest_1.png)
 
  The **Compare & pull request** button appeared at the top (1), and you can also go to the **Pull Requests tab** (2).
