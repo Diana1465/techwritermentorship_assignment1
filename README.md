@@ -88,11 +88,15 @@ It will take a few seconds to clone the storage on your system. Please note that
 ## Pull request
 A pull request is an offer to change the code in the repository. 
 
-To create a pull request, go to your fork page on GitHub. The Compare & pull request bar appeared at the top, and you can also go to the **Pull Requests** tab.
-1. Go to your fork page on GitHub. The Compare & pull request bar appeared at the top, and you can also go to the Pull Requests tab.
+1. To create a pull request, go to your fork page on GitHub. You are making or have already made some changes to the code. After you have made changes to your repository file, you can ask the creator of the file to confirm the changes. Click **Propose changes**. 
 ![pullrequest_1](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/pullrequest_1.png)
-2. Click on it and you will find yourself on the page for opening a pull request. Check the description and click **create a pull request**.
+
+ The **Compare & pull request** button appeared at the top (1), and you can also go to the **Pull Requests tab** (2).
 ![pullrequest_2](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/pullrequest_2.png)
+
+2. Click on (1) and you will find yourself on the page for opening a pull request. Describe the changes and click **Create pull request**.
+![pullrequest_3](https://github.com/Diana1465/techwritermentorship_assignment1/blob/main/pullrequest_3.png)
+
 4. Wait for the approval of the pull request or comments on it.
 
 
